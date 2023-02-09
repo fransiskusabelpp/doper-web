@@ -54,6 +54,7 @@ table, th, td {
   .nav-btn{
     border: none;
     color: white;
+    opacity: 50%;
     height: 100%;
     width: 100%;
   }

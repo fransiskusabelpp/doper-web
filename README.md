@@ -1,11 +1,10 @@
-# group-video-chat
-Simple group video chat app built using plain HTML, CSS, JavaScript and the Agora SDK
+# Problem
+Kalo sendiri ini button masi oke, responsive juga
+<img src="./pic1.png">  
 
-# Installation
-* 1 - clone repo https://github.com/divanov11/group-video-chat
-* 2 - Create an account on agora.io and get APP ID, Temp Token and Channel Name
-* 3 - Update APP ID, Temp Token and Channel Name in script.js
+Tapi pas berdua si button ini malah gaikut vid 1 (yang kiri), dia malah nutupin vid 2 (yang kanan)
 
+<img src="./pic2.png>
 
-# Projects Page
-<img src="./coverpic.jpg">  
+Ini design kasarnya kira kira
+<img src="./pic3.png">
